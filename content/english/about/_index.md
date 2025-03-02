@@ -2,7 +2,7 @@
 title: "Meet the Author"
 meta_title: "About"
 description: "About the author of What You Need to Know About AI"
-image: "/images/james_yellow_background_square.jpg"
+image: "/images/james_background_square.jpg"
 draft: false
 ---
 
