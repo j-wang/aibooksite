@@ -7,7 +7,9 @@ banner:
   button:
     enable: true
     label: "Sign up for Updates"
-    link: "https://ai-book.kit.com/quicksignup"
+    noblank: true
+    customattr: "data-formkit-toggle=\"a94399c49e\""
+    link: "https://ai-book.kit.com/a94399c49e"
 
 # Features
 features:

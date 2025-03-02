@@ -25,7 +25,7 @@ contact_form_action = "#" # contact form works with [https://airform.io/] or [ht
 google_tag_manager = "G-BV2DVGEV6X" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
-custom_script = ""
+custom_script = "<script async data-uid=\"a94399c49e\" src=\"https://ai-book.kit.com/a94399c49e/index.js\"></script>"
 # copyright
 copyright = "© [James Wang](https://jameswang.ai) (Theta Labs) 2025"
 
