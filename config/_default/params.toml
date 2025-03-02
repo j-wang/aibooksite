@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "What You Need to Know About AI"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -22,12 +22,12 @@ mainSections = ["blog"]
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+google_tag_manager = "G-BV2DVGEV6X" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
-custom_script = ""
+custom_script = "<script async data-uid=\"a94399c49e\" src=\"https://ai-book.kit.com/a94399c49e/index.js\"></script>"
 # copyright
-copyright = "All Rights Reserved by [James Wang](https://jameswang.ai)"
+copyright = "© [James Wang](https://jameswang.ai) (Theta Labs) 2025"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -37,8 +37,8 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
-label = "get a quote"
+enable = false
+label = "Sign Up"
 link = "contact"
 
 # search
@@ -62,10 +62,10 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+keywords = ["Book", "AI"]
+description = "What You Need to Know About AI -- Learn about the book here."
+author = "James Wang"
+twitter = "AJamesWang"
 image = "images/og-image.png"
 
 

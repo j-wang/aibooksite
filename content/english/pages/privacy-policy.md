@@ -8,26 +8,32 @@ description: "This is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+Effective Date: March 2, 2025
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### Information Collected
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+We use Google Analytics and Facebook Pixel to collect basic, non-personally identifiable information about website traffic and user behavior. This data helps us improve the website and understand visitor interactions.
 
-#### Gathering of Personal Information
+#### Use of Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+The information collected is used solely to analyze website performance and improve user experience. We do not sell, rent, or share your personal information with third parties.
 
-#### Protection of Personal- Information
+#### Purpose of Website
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+This website exists solely to provide information and promote our book. We do not engage in any activities beyond this scope.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+#### Third-Party Services
 
-#### Privacy Policy Changes
+Our website may contain links to third-party services, such as social media platforms. These services operate independently, and we encourage you to review their privacy policies.
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+#### Cookies and Tracking
+
+We may use cookies and similar tracking technologies to enhance user experience. You can modify your browser settings to disable cookies if desired.
+
+#### Changes to this Policy
+
+We may update this Privacy Policy periodically. Any changes will be posted on this page with the updated effective date.
+
+#### Contact Information
+
+If you have any questions about this Privacy Policy, please contact us at info at weighty thoughts dot com (in the form where it isn't spelled out).

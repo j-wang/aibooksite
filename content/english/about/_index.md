@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Meet the Author"
 meta_title: "About"
-description: "this is meta description"
-image: "/images/avatar.png"
+description: "About the author of What You Need to Know About AI"
+image: "/images/james_background_square.jpg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+James Wang is a technologist, entrepreneur, and investor in AI. He has funded companies within the space since 2016, previously was part of the investment team at Bridgewater Associates and worked at Google[x]. He is also the author of [Weighty Thoughts](https://weightythoughts.com), a Substack about AI and deep tech.
