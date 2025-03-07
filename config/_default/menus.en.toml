@@ -7,14 +7,19 @@ url = "/"
 weight = 1
 
 [[main]]
+name = "Panel"
+url = "/panel"
+weight = 2
+
+[[main]]
 name = "About"
 url = "/about"
-weight = 2
+weight = 3
 
 [[main]]
 name = "Substack"
 url = "https://weightythoughts.com"
-weight = 3
+weight = 4
 
 #[[main]]
 #weight = 4
