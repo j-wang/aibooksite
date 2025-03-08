@@ -8,6 +8,10 @@ description: "Learn more about the panelists at SXSW 2025 Interactive!"
 draft: false
 ---
 
+<center>{{< button label="Ask Live Questions" link="https://app.sli.do/event/9s7NLVnD7DUaxPEGMnKZ7D" style="solid" >}}</center>
+
+--------
+
 ## Follow our Speakers
 
 Learn about our speakers below and follow with their preferred methods. For Substacks, "DMs" are open and it's free to subscribe.
