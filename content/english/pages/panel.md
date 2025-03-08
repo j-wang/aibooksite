@@ -56,3 +56,14 @@ Sergei has spearheaded significant AI projects, including developing an AI-assis
 Kartik Tiwari is a roboticist and a three-time founder of companies working on hard problems from self-driving trucks to autonomous robotic surgery. He was CTO and co-founder of Starsky Robotics, an autonomous driving platform, and is currently co-founder and CTO of Andromeda Surgical. He has close to a decade experience working at the intersection of AI and safety critical applications.
 
 <center>{{< button label="Follow Kartik on LinkedIn" link="https://www.linkedin.com/in/kartik-tiwari-b2a10668/" style="solid" >}}</center>
+
+--------
+
+## Also check out James's upcoming book
+
+If you found this interesting, check out James Wang's upcoming book in Fall 2025, "What You Need To Know About AI" published by Manuscripts Press. Inside, you'll find interviews from experts like on this panel, and find out what matters about AI and what's just hype.
+
+More information is on [Home](/) of this site, and please subscribe if you want to hear more about it or when pre-orders open!
+
+<center>{{< button label="Sign up for updates" link="https://ai-book.kit.com/quicksignup/" style="solid" >}}</center>
+
