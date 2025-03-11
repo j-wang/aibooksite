@@ -25,7 +25,7 @@ contact_form_action = "#" # contact form works with [https://airform.io/] or [ht
 google_tag_manager = "G-BV2DVGEV6X" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
-custom_script = "<script async data-uid=\"a94399c49e\" src=\"https://ai-book.kit.com/a94399c49e/index.js\"></script>"
+custom_script = "<script async data-uid=\"a94399c49e\" src=\"https://ai-book.kit.com/a94399c49e/index.js\"></script><!-- Meta Pixel Code --> <script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '1194380895553974'); fbq('track', 'PageView'); </script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1194380895553974&ev=PageView&noscript=1" /></noscript> <!-- End Meta Pixel Code -->"
 # copyright
 copyright = "© [James Wang](https://jameswang.ai) (Theta Labs) 2025"
 
